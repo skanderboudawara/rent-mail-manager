@@ -1,7 +1,7 @@
 # Rent / Bill attachment Gmail & Gdrive Manager 
 
 ## Problematic to solve:
-Each month I receive my transportation/rent bill via an e-mail with an attached pdf. Then, manually I downloaded and saved the attachments in my Google drive in their dedicated folders. Since It was a repetitive task, I wanted to automate it via Google script.
+Each month I receive my transportation/rent bill via an e-mail with an attached pdf. Then, manually I download and save the attachments in my Google drive dedicated folders. Since It was a repetitive task, I wanted to automate it via Google script.
 
 #### 📩 E-mails attachments
 ![Mails](https://i.ibb.co/S3fPppB/Capture-d-cran-2022-07-20-08-20-11.jpg)

@@ -6,7 +6,7 @@ function attachement_management() {
     var parentFolder = DriveApp.getFolderById(LIST_AND_FOLDERS[entry]);
 
 
-    for (var thread = 0; thrread < allEmailThreads.length; thread++) {
+    for (var thread = 0; thread < allEmailThreads.length; thread++) {
       messages = allEmailThreads[thread].getMessages()
       for (var message_index = 0; message_index < messages.length; message_index++) {
         try {
